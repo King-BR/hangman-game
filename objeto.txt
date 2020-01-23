@@ -1,0 +1,13 @@
+faca
+garfo
+toalha
+carro
+aviao
+porta
+prato
+copo
+taca
+taco
+bola
+cesta
+lixeira

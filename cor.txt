@@ -1,0 +1,15 @@
+vermelho
+azul
+preto
+branco
+rosa
+amarelo
+verde
+laranja
+roxo
+cinza
+esverdeado
+amarelado
+alaranjado
+avermelhado
+azulado
